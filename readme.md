@@ -125,7 +125,7 @@ The following items should be installed in your system:
 
 ### Steps:
 
-1) On the command line
+1) in the command line
 ```
 git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
 ```
