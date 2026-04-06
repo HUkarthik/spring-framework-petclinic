@@ -451,7 +451,7 @@
                 </executions>
             </plugin>
 
-            <!--Specify the encoding for copying resources-->
+            <!--Specify the encoding for copying resource-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-resources-plugin</artifactId>
